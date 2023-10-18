@@ -1,4 +1,6 @@
 
+// Conceptos: Clousure & anonymous function
+//
 // sumar(2)(2) --> 4
 
 // ES6
